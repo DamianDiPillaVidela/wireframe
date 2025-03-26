@@ -3,9 +3,9 @@
 
 xxxxx
 
-1.xxxx
-2.xxxxx
-3.xxxxx
+1. xxxx
+2. xxxxx
+3. xxxxx
 
 
 ## Xxxxxxxxx
